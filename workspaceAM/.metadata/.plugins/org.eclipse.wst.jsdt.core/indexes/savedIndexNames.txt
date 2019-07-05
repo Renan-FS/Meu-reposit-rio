@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Asus Strix\Documents\Facul\PrimeiroAno\Domain Driven Design\workspaceAM\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+320220129.index
+4204271756.index
+1536880676.index
+4286896916.index
+2870893795.index
+2081031789.index
